@@ -44,6 +44,10 @@ h1, h2, h3{
     margin: 0;
 }
 
+p{
+    font-weight: 700;
+}
+
 h4{
     padding-top: 15px;
 }
