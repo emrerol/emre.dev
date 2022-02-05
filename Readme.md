@@ -4,7 +4,7 @@
 
 #### Few Secreenshots
 
-![MainPage]("./readme-img/a.png")
+![MainPage]("./readme-img/a.jpg")
 
 ![Project Section]("./readme-img/b.png")
 
