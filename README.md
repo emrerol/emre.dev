@@ -7,7 +7,8 @@
 #### Few Secreenshots
 
 
-![Main Section](https://user-images.githubusercontent.com/66169656/152658329-cd52446d-b22d-492f-ab19-f6a42969ee89.png)
+
+![Main Section](https://user-images.githubusercontent.com/66169656/152658749-43f1a08f-ecf8-466a-bcfa-d2e4b07f1d1e.png)
 
 
 ![Projects Section](https://user-images.githubusercontent.com/66169656/152639090-9bd326f8-3f75-4036-ab0c-ffd66c17b58d.png)
