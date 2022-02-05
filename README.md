@@ -6,8 +6,8 @@
 
 #### Few Secreenshots
 
-![MainPage]("./readme-img/a.jpg")
+![MainPage]("readme-img/a.jpg")
 
-![Project Section]("./readme-img/b.png")
+![Project Section]("readme-img/b.png")
 
-![Contact and Footer]("./readme-img/c.png")
+![Contact and Footer]("readme-img/c.png")
